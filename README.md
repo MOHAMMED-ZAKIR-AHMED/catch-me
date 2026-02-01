@@ -13,8 +13,6 @@ text<br>
 ├── index.html   # Main structure<br>
 ├── style.css    # Styling and animations<br>
 └── script.js    # Random movement logic<br>
-Use code with caution.
-
 ⚙️ How to Run Locally
 Clone the repository:
 git clone 
