@@ -9,9 +9,9 @@ HTML5: For the basic button structure.<br>
 CSS3: For styling and absolute positioning.<br>
 JavaScript (Vanilla): For the core logic of calculating random positions and handling event listeners.<br><br>
 📂 Project Structure
-text
-├── index.html   # Main structure
-├── style.css    # Styling and animations
+text<br>
+├── index.html   # Main structure<br>
+├── style.css    # Styling and animations<br>
 └── script.js    # Random movement logic<br>
 Use code with caution.
 
