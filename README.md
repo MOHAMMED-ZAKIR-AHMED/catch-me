@@ -23,3 +23,12 @@ The JavaScript listens for a click (or mouseenter) event on the button. When tri
 It calculates a random X and Y coordinate.
 It subtracts the button's own width and height to ensure it doesn't move off-screen.
 It updates the button's style.left and style.top properties.
+
+Here is the glimpse of it 
+
+
+https://github.com/user-attachments/assets/35c228f5-fad8-4279-b491-ebe903b66754
+
+
+
+
